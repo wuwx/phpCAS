@@ -1,5 +1,5 @@
 {
-	"name" : "apereo/phpcas",
+	"name" : "wuwx/phpcas",
 	"description" : "Provides a simple API for authenticating users against a CAS server",
 	"keywords" : [
 		"cas",
